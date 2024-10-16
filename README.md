@@ -10,3 +10,9 @@
   - forkシステムコールを使用したプロセス生成
   - 子プロセスにて“ls -al/usr/local”のコマンドを実行
 
+## Homework B
+- B1.c
+  - pipeを用いたプロセス間通信
+- B2.c
+  - マルチスレッド処理
+  - pthread_createによるスレッドの生成
