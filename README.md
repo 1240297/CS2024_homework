@@ -1,5 +1,5 @@
 # 計算機システム論課題
-## A
+## Homework A
 - A1.c
   - inputfile.txtから読み込んだ文字列，氏名，年齢を1行ずつファイルに出力するプログラム
   - システムコールの学習(open, close, write, read)
